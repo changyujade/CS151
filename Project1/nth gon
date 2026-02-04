@@ -1,0 +1,8 @@
+from turtle import *
+
+input=(int("how many sides are there in your shape?"))
+for x in range(input):
+    forward(100)
+    right(360/input)
+
+exitonclick()

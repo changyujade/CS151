@@ -1,0 +1,51 @@
+.navbar {
+	border-radius: 0px;
+}
+
+.page-header {
+	padding-bottom: 0px;
+	margin: 0px 0 30px;
+	border-bottom: 2px solid #eee;
+}
+
+h1 {
+	margin-top: 10px;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+h3 {
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+pre {
+	font-size: 12px;
+}
+
+p.lastMod {
+	color: lightgrey;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+.zero-bottom-margin {
+	margin-bottom: 0px;
+}
+
+.pad {
+	margin-bottom: 10px;
+}
+
+h2.week {
+	color: grey;
+	font-size: 21px;
+	font-weight: 400;	
+}
